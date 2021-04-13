@@ -1294,3 +1294,1369 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.13-19.58.07:932][ 32]SourceControl: Commited [main a38b031] Added Player Health Functionality.
 [2021.04.13-19.58.07:961][ 33]AssetCheck: New page: Asset Save: MainLevel
 [2021.04.13-19.58.07:961][ 33]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/MainLevel.MainLevel
+[2021.04.13-20.01.08:732][910]LogContentBrowser: Attempting asset rename: MainLevel -> Level1
+[2021.04.13-20.01.09:344][910]LogMetaData: Removing '/Game/SideScrollerBP/Maps/Level1.Level1_C' ref from Metadata '/Game/SideScrollerBP/Maps/MainLevel.PackageMetaData'
+[2021.04.13-20.01.09:344][910]LogMetaData: Removing '/Game/SideScrollerBP/Maps/Level1.SKEL_Level1_C:ReceiveBeginPlay' ref from Metadata '/Game/SideScrollerBP/Maps/MainLevel.PackageMetaData'
+[2021.04.13-20.01.09:344][910]LogMetaData: Removing '/Game/SideScrollerBP/Maps/Level1.SKEL_Level1_C' ref from Metadata '/Game/SideScrollerBP/Maps/MainLevel.PackageMetaData'
+[2021.04.13-20.01.09:344][910]LogMetaData: Removing '/Game/SideScrollerBP/Maps/Level1.Level1_C:ReceiveBeginPlay' ref from Metadata '/Game/SideScrollerBP/Maps/MainLevel.PackageMetaData'
+[2021.04.13-20.01.09:375][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Maps/Level1_BuiltData" FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/Level1_BuiltData.uasset" SILENT=true
+[2021.04.13-20.01.09:492][910]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/Level1_BuiltData3F063CE24CC60A3907FB2E825B025A15.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/Level1_BuiltData.uasset'
+[2021.04.13-20.01.09:893][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Maps/MainLevel_BuiltData" FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/MainLevel_BuiltData.uasset" SILENT=true
+[2021.04.13-20.01.09:894][910]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/MainLevel_BuiltData260EB19B4F64C868D9E81DBA97104181.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/MainLevel_BuiltData.uasset'
+[2021.04.13-20.01.09:895][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Maps/Level1" FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.13-20.01.09:923][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.04.13-20.01.09:937][910]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/Level111BFB3F44970D6F2996D1E9759AC303A.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/Level1.umap'
+[2021.04.13-20.01.10:145][910]LogFileHelpers: Saving map 'Level1' took 0.251
+[2021.04.13-20.01.10:145][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Maps/MainLevel" FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/MainLevel.umap" SILENT=true
+[2021.04.13-20.01.10:146][910]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/MainLevelBF79E0194F163594E90C7D9FD6FE0630.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/MainLevel.umap'
+[2021.04.13-20.01.10:648][910]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-20.01.10:649][910]LogContentValidation: Display: Validating ObjectRedirector /Game/SideScrollerBP/Maps/MainLevel.MainLevel
+[2021.04.13-20.01.10:649][910]LogContentValidation: Display: Validating ObjectRedirector /Game/SideScrollerBP/Maps/MainLevel.Default__MainLevel_C
+[2021.04.13-20.01.10:649][910]LogContentValidation: Display: Validating ObjectRedirector /Game/SideScrollerBP/Maps/MainLevel.MainLevel_C
+[2021.04.13-20.01.10:649][910]LogContentValidation: Display: Validating ObjectRedirector /Game/SideScrollerBP/Maps/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.04.13-20.01.10:649][910]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/Level1.Level1
+[2021.04.13-20.01.10:649][910]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/Level1_BuiltData.Level1_BuiltData
+[2021.04.13-20.01.17:072][263]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.04.13-20.01.17:092][263]LogContentBrowser: Creating deferred item: NewWorld
+[2021.04.13-20.01.20:162][448]LogContentBrowser: Attempting asset rename: NewWorld -> Level2
+[2021.04.13-20.01.20:236][448]LogContentBrowser: End creating deferred item NewWorld
+[2021.04.13-20.01.22:469][569]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.04.13-20.01.22:481][569]LogContentBrowser: Creating deferred item: NewWorld
+[2021.04.13-20.01.24:670][701]LogContentBrowser: Attempting asset rename: NewWorld -> Level3
+[2021.04.13-20.01.24:734][701]LogContentBrowser: End creating deferred item NewWorld
+[2021.04.13-20.01.38:964][539]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/Blueprints/Widgets/MainMenu.MainMenu
+[2021.04.13-20.01.49:508][148]BlueprintLog: New page: Compile MainMenu
+[2021.04.13-20.01.49:591][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.04.13-20.01.53:576][384]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.01.53:579][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.01.53:579][384]PIE: New page: PIE session: Level1 (Apr 13, 2021, 8:01:53 AM)
+[2021.04.13-20.01.53:604][384]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Level1
+[2021.04.13-20.01.53:606][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002234s)
+[2021.04.13-20.01.53:607][384]LogAIModule: Creating AISystem for world Level1
+[2021.04.13-20.01.53:607][384]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2021.04.13-20.01.53:607][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Level1.Level1 to /Game/SideScrollerBP/Maps/UEDPIE_0_Level1.Level1 (0.003184s)
+[2021.04.13-20.01.53:662][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.04.13-20.01.53:663][384]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.04.13-20.01.53:663][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.01.53:663][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.01.53:663][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.01.53:663][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.01.53:663][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.01.53:663][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.01.53:663][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.01.53:663][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.01.53:664][384]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.01.53:664][384]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.01.53:668][384]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.01.53:668][384]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.01.53:679][384]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.01.53:679][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.01.53:679][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.01.53:679][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.01.53:679][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.01.53:679][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.01.53:679][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.01.53:693][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.01.53:693][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.01.53:693][384]LogInit: FAudioDevice initialized.
+[2021.04.13-20.01.53:693][384]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2021.04.13-20.01.53:703][384]LogLoad: Game class is 'GameMode'
+[2021.04.13-20.01.53:706][384]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.04.13-14.01.53
+[2021.04.13-20.01.53:706][384]LogWorld: Bringing up level for play took: 0.001580
+[2021.04.13-20.01.53:706][384]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.04.13-20.01.53:708][384]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.04.13-20.01.53:708][384]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.04.13-20.01.53:708][384]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.04.13-20.01.53:708][384]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.01.53:708][384]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.13-20.01.53:708][384]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.04.13-20.01.53:708][384]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.04.13-20.01.53:708][384]PIE: Server logged in
+[2021.04.13-20.01.53:709][384]PIE: Play in editor total start time 0.13 seconds.
+[2021.04.13-20.01.55:714][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.01.55:714][502]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_Level1
+[2021.04.13-20.01.55:714][502]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.01.55:714][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.01.55:720][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.01.55:734][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.01.55:761][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.01.55:761][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.01.55:763][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.01.55:781][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.04.13-20.01.55:805][503]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.04.13-20.02.25:192][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Maps/Level3" FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/Level3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.13-20.02.25:222][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.04.13-20.02.25:226][631]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/Level3F07366054D8D547A91A78FAEA611D384.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/Level3.umap'
+[2021.04.13-20.02.25:445][631]LogFileHelpers: Saving map 'Level3' took 0.253
+[2021.04.13-20.02.25:566][631]AssetCheck: New page: Asset Save: Level3
+[2021.04.13-20.02.25:566][631]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/Level3.Level3
+[2021.04.13-20.02.28:040][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Maps/Level2" FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.13-20.02.28:072][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.04.13-20.02.28:074][756]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/Level2DDD2435449681B99A02EE8A15692C48C.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/Level2.umap'
+[2021.04.13-20.02.28:282][756]LogFileHelpers: Saving map 'Level2' took 0.242
+[2021.04.13-20.02.28:436][756]AssetCheck: New page: Asset Save: Level2
+[2021.04.13-20.02.28:436][756]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/Level2.Level2
+[2021.04.13-20.03.00:344][608]BlueprintLog: New page: Compile EnemyChar
+[2021.04.13-20.03.00:398][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.04.13-20.03.23:696][675]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.13-20.03.36:723][301]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.13-20.03.36:747][301]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.13-20.05.14:313][693]BlueprintLog: New page: Compile MainMenu
+[2021.04.13-20.05.14:378][693]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2021.04.13-20.05.19:662][944]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.04.13-20.05.19:685][944]LogContentBrowser: Creating deferred item: NewWorld
+[2021.04.13-20.05.28:827][493]LogContentBrowser: Attempting asset rename: NewWorld -> LevelSelector
+[2021.04.13-20.05.28:890][493]LogContentBrowser: End creating deferred item NewWorld
+[2021.04.13-20.05.48:264][587]BlueprintLog: New page: Compile MainMenu
+[2021.04.13-20.05.48:309][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.04.13-20.05.51:837][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.04.13-20.05.53:229][792]LogSlate: Window 'Save Content' being destroyed
+[2021.04.13-20.05.53:407][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/EnemyChar" FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Blueprints/EnemyChar.uasset" SILENT=true
+[2021.04.13-20.05.53:425][792]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/EnemyChar0C8D399E4A6A7166DAC483BDC4FE01F5.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Blueprints/EnemyChar.uasset'
+[2021.04.13-20.05.53:426][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Maps/Level1" FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.13-20.05.53:459][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.13-20.05.53:468][792]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/Level1ED6FDCB9419C2488D8629CBB06EE85E3.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/Level1.umap'
+[2021.04.13-20.05.53:475][792]LogFileHelpers: Saving map 'Level1' took 0.049
+[2021.04.13-20.05.53:510][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.04.13-20.05.53:511][792]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/LevelSelector80E9B63242FB8FC765624A84FBCB3C25.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/LevelSelector.umap'
+[2021.04.13-20.05.53:722][792]LogFileHelpers: Saving map 'LevelSelector' took 0.247
+[2021.04.13-20.05.53:722][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Widgets/MainMenu" FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Blueprints/Widgets/MainMenu.uasset" SILENT=true
+[2021.04.13-20.05.53:731][792]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/MainMenuAC3411B541BAD85B351C4BBC6887830B.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Blueprints/Widgets/MainMenu.uasset'
+[2021.04.13-20.05.53:747][792]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector
+[2021.04.13-20.05.53:747][792]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/LevelSelector.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.13-20.05.53:747][792]LightingResults: New page: Lighting Build
+[2021.04.13-20.05.53:747][792]LoadErrors: New page: Loading map: LevelSelector.umap
+[2021.04.13-20.05.53:749][792]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.05.53:749][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.05.53:749][792]MapCheck: New page: Map Check
+[2021.04.13-20.05.53:749][792]LightingResults: New page: Lighting Build
+[2021.04.13-20.05.53:783][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.05.53:789][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.04.13-20.05.53:826][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.04.13-20.05.53:862][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.04.13-20.05.53:897][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.04.13-20.05.53:897][792]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelSelector'.
+[2021.04.13-20.05.53:968][792]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.13-20.05.53:968][792]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.05.54:004][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.04.13-20.05.54:010][792]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.13-20.05.54:010][792]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2021.04.13-20.05.54:010][792]LogFileHelpers: Loading map 'LevelSelector' took 0.263
+[2021.04.13-20.05.54:028][792]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.13-20.05.54:028][792]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/EnemyChar.EnemyChar
+[2021.04.13-20.05.54:028][792]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Blueprints/Widgets/MainMenu.MainMenu
+[2021.04.13-20.05.54:028][792]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector
+[2021.04.13-20.05.54:028][792]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/Level1.Level1
+[2021.04.13-20.06.08:090][631]LogEditorViewport: Clicking Background
+[2021.04.13-20.06.18:922][258]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.04.13-20.06.18:933][258]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.04.13-20.06.22:785][490]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> LevelSelector
+[2021.04.13-20.06.22:849][490]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.04.13-20.06.24:633][596]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/Blueprints/Widgets/LevelSelector.LevelSelector
+[2021.04.13-20.07.30:851][300]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-20.08.30:137][518]Cmd: TRANSACTION UNDO
+[2021.04.13-20.08.30:138][518]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.04.13-20.08.32:660][612]SourceControl: Error: fatal: Invalid path 'D:/UE4/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.04.13-20.08.35:441][722]SourceControl: Error: fatal: Invalid path 'D:/UE4/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.04.13-20.09.01:222][ 32]LogEditorTransaction: Undo Reset to Default
+[2021.04.13-20.09.30:977][724]LogEditorTransaction: Undo Set Vector Property
+[2021.04.13-20.10.08:879][667]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.04.13-20.10.49:638][662]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.04.13-20.11.11:558][724]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.04.13-20.11.15:370][854]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.04.13-20.11.29:478][516]LogEditorTransaction: Undo Reset to Default
+[2021.04.13-20.11.30:179][538]Cmd: TRANSACTION UNDO
+[2021.04.13-20.11.30:179][538]LogEditorTransaction: Undo Reset to Default
+[2021.04.13-20.11.36:909][937]BlueprintLog: New page: Compile LevelSelector
+[2021.04.13-20.11.36:974][937]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.04.13-20.12.48:023][862]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-20.12.58:382][347]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-20.13.07:092][777]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-20.13.08:283][838]BlueprintLog: New page: Compile LevelSelector
+[2021.04.13-20.13.08:329][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.04.13-20.13.09:099][881]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.13.09:104][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.13.09:104][881]PIE: New page: PIE session: LevelSelector (Apr 13, 2021, 8:13:09 AM)
+[2021.04.13-20.13.09:104][881]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.13.09:105][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000646s)
+[2021.04.13-20.13.09:106][881]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.13.09:106][881]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2021.04.13-20.13.09:106][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector (0.001851s)
+[2021.04.13-20.13.09:148][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.04.13-20.13.09:149][881]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.04.13-20.13.09:149][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.13.09:149][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.13.09:149][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.13.09:149][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.13.09:149][881]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.13.09:149][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.13.09:149][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.13.09:149][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.13.09:149][881]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.13.09:149][881]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.13.09:155][881]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.13.09:155][881]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.13.09:166][881]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.13.09:166][881]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.13.09:166][881]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.13.09:167][881]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.13.09:167][881]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.13.09:167][881]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.13.09:167][881]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.13.09:182][881]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.13.09:182][881]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.13.09:182][881]LogInit: FAudioDevice initialized.
+[2021.04.13-20.13.09:182][881]LogAudio: Display: Audio Device (ID: 8) registered with world 'LevelSelector'.
+[2021.04.13-20.13.09:197][881]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.13.09:198][881]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.13.09
+[2021.04.13-20.13.09:199][881]LogWorld: Bringing up level for play took: 0.000437
+[2021.04.13-20.13.09:199][881]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.04.13-20.13.09:202][881]PIE: Server logged in
+[2021.04.13-20.13.09:203][881]PIE: Play in editor total start time 0.1 seconds.
+[2021.04.13-20.13.16:033][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.13.16:033][281]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.13.16:033][281]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.13.16:033][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.13.16:043][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.13.16:051][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.13.16:095][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.13.16:095][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.13.16:096][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.13.16:116][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.13.16:120][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.04.13-20.13.16:140][282]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.04.13-20.13.28:415][961]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-20.13.40:821][699]BlueprintLog: New page: Compile LevelSelector
+[2021.04.13-20.13.40:872][699]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.04.13-20.13.43:363][843]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.13.43:368][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.13.43:368][843]PIE: New page: PIE session: LevelSelector (Apr 13, 2021, 8:13:43 AM)
+[2021.04.13-20.13.43:368][843]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.13.43:368][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000537s)
+[2021.04.13-20.13.43:369][843]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.13.43:369][843]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2021.04.13-20.13.43:369][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector (0.001550s)
+[2021.04.13-20.13.43:414][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.04.13-20.13.43:415][843]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.04.13-20.13.43:415][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.13.43:415][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.13.43:415][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.13.43:415][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.13.43:415][843]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.13.43:415][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.13.43:415][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.13.43:415][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.13.43:415][843]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.13.43:415][843]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.13.43:419][843]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.13.43:419][843]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.13.43:429][843]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.13.43:429][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.13.43:429][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.13.43:429][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.13.43:430][843]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.13.43:430][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.13.43:430][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.13.43:444][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.13.43:444][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.13.43:444][843]LogInit: FAudioDevice initialized.
+[2021.04.13-20.13.43:444][843]LogAudio: Display: Audio Device (ID: 9) registered with world 'LevelSelector'.
+[2021.04.13-20.13.43:449][843]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.13.43:450][843]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.13.43
+[2021.04.13-20.13.43:450][843]LogWorld: Bringing up level for play took: 0.000248
+[2021.04.13-20.13.43:450][843]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.04.13-20.13.43:453][843]PIE: Server logged in
+[2021.04.13-20.13.43:454][843]PIE: Play in editor total start time 0.087 seconds.
+[2021.04.13-20.13.44:684][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.13.44:684][915]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.13.44:684][915]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.13.44:684][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.13.44:694][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.13.44:701][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.13.44:736][915]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.13.44:736][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.13.44:737][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.13.44:752][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.13.44:755][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.04.13-20.13.44:770][916]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.04.13-20.13.50:380][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.04.13-20.13.51:594][243]LogSlate: Window 'Save Content' being destroyed
+[2021.04.13-20.13.51:684][243]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/LevelSelectorF7CB2BB64E94F57F552C53ADCABD3966.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Blueprints/Widgets/LevelSelector.uasset'
+[2021.04.13-20.13.51:920][243]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/MainMenu.MainMenu
+[2021.04.13-20.13.51:920][243]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.13-20.13.51:920][243]LightingResults: New page: Lighting Build
+[2021.04.13-20.13.51:921][243]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.04.13-20.13.51:922][243]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.13.51:922][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.13.51:922][243]MapCheck: New page: Map Check
+[2021.04.13-20.13.51:922][243]LightingResults: New page: Lighting Build
+[2021.04.13-20.13.51:962][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.13.51:967][243]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.04.13-20.13.52:012][243]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.04.13-20.13.52:055][243]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.04.13-20.13.52:055][243]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.04.13-20.13.52:148][243]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.13-20.13.52:148][243]LogAIModule: Creating AISystem for world MainMenu
+[2021.04.13-20.13.52:192][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.04.13-20.13.52:200][243]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.13-20.13.52:200][243]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2021.04.13-20.13.52:200][243]LogFileHelpers: Loading map 'MainMenu' took 0.280
+[2021.04.13-20.13.52:224][243]AssetCheck: New page: Asset Save: LevelSelector
+[2021.04.13-20.13.52:224][243]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Blueprints/Widgets/LevelSelector.LevelSelector
+[2021.04.13-20.13.53:275][306]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.13.53:283][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.13.53:283][306]PIE: New page: PIE session: MainMenu (Apr 13, 2021, 8:13:53 AM)
+[2021.04.13-20.13.53:283][306]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.13.53:284][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001090s)
+[2021.04.13-20.13.53:285][306]LogAIModule: Creating AISystem for world MainMenu
+[2021.04.13-20.13.53:285][306]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2021.04.13-20.13.53:285][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002254s)
+[2021.04.13-20.13.53:329][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.04.13-20.13.53:329][306]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.04.13-20.13.53:329][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.13.53:329][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.13.53:329][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.13.53:329][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.13.53:329][306]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.13.53:329][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.13.53:329][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.13.53:329][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.13.53:330][306]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.13.53:330][306]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.13.53:334][306]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.13.53:334][306]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.13.53:343][306]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.13.53:343][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.13.53:343][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.13.53:343][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.13.53:344][306]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.13.53:344][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.13.53:344][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.13.53:358][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.13.53:358][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.13.53:358][306]LogInit: FAudioDevice initialized.
+[2021.04.13-20.13.53:358][306]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenu'.
+[2021.04.13-20.13.53:366][306]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.13.53:367][306]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.04.13-14.13.53
+[2021.04.13-20.13.53:367][306]LogWorld: Bringing up level for play took: 0.000260
+[2021.04.13-20.13.53:367][306]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.04.13-20.13.53:369][306]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.13.53:370][306]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.13.53:370][306]PIE: Server logged in
+[2021.04.13-20.13.53:371][306]PIE: Play in editor total start time 0.089 seconds.
+[2021.04.13-20.13.55:515][435]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelSelector
+[2021.04.13-20.13.55:515][435]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelSelector
+[2021.04.13-20.13.55:515][435]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.13.55:515][435]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.13.55:515][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.13.55:551][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.13.55:555][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.04.13-20.13.55:556][435]LogAudio: Display: Audio Device (ID: 10) registered with world 'LevelSelector'.
+[2021.04.13-20.13.55:557][435]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.13.55:557][435]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.13.55:558][435]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.13.55
+[2021.04.13-20.13.55:558][435]LogWorld: Bringing up level for play took: 0.000377
+[2021.04.13-20.13.55:558][435]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.13-20.13.55:560][435]LogLoad: Took 0.045103 seconds to LoadMap(/Game/SideScrollerBP/Maps/LevelSelector)
+[2021.04.13-20.13.58:654][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.13.58:654][614]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.13.58:654][614]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.13.58:654][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.13.58:664][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.13.58:670][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.13.58:707][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.13.58:707][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.13.58:708][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.13.58:730][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.04.13-20.13.58:744][615]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.04.13-20.14.02:081][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.04.13-20.14.02:109][812]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector
+[2021.04.13-20.14.02:109][812]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/LevelSelector.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.13-20.14.02:109][812]LightingResults: New page: Lighting Build
+[2021.04.13-20.14.02:109][812]LoadErrors: New page: Loading map: LevelSelector.umap
+[2021.04.13-20.14.02:109][812]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.14.02:109][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.14.02:110][812]MapCheck: New page: Map Check
+[2021.04.13-20.14.02:110][812]LightingResults: New page: Lighting Build
+[2021.04.13-20.14.02:148][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.14.02:153][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.04.13-20.14.02:153][812]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelSelector'.
+[2021.04.13-20.14.02:228][812]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.13-20.14.02:228][812]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.14.02:271][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.04.13-20.14.02:279][812]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.13-20.14.02:279][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2021.04.13-20.14.02:279][812]LogFileHelpers: Loading map 'LevelSelector' took 0.170
+[2021.04.13-20.14.06:292][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.13-20.14.06:312][ 49]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/MainMenu.MainMenu
+[2021.04.13-20.14.06:313][ 49]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.13-20.14.06:313][ 49]LightingResults: New page: Lighting Build
+[2021.04.13-20.14.06:313][ 49]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.04.13-20.14.06:313][ 49]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.14.06:313][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.14.06:313][ 49]MapCheck: New page: Map Check
+[2021.04.13-20.14.06:313][ 49]LightingResults: New page: Lighting Build
+[2021.04.13-20.14.06:353][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.14.06:357][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.04.13-20.14.06:357][ 49]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.04.13-20.14.06:439][ 49]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.13-20.14.06:439][ 49]LogAIModule: Creating AISystem for world MainMenu
+[2021.04.13-20.14.06:482][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.04.13-20.14.06:488][ 49]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.13-20.14.06:489][ 49]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2021.04.13-20.14.06:489][ 49]LogFileHelpers: Loading map 'MainMenu' took 0.176
+[2021.04.13-20.14.08:188][134]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.04.13-20.14.20:012][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.04.13-20.14.20:037][822]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector
+[2021.04.13-20.14.20:037][822]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/LevelSelector.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.13-20.14.20:037][822]LightingResults: New page: Lighting Build
+[2021.04.13-20.14.20:037][822]LoadErrors: New page: Loading map: LevelSelector.umap
+[2021.04.13-20.14.20:072][822]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.14.20:072][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.14.20:104][822]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.14.20:104][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.14.20:104][822]MapCheck: New page: Map Check
+[2021.04.13-20.14.20:104][822]LightingResults: New page: Lighting Build
+[2021.04.13-20.14.20:140][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.14.20:146][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.04.13-20.14.20:146][822]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelSelector'.
+[2021.04.13-20.14.20:214][822]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.13-20.14.20:214][822]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.14.20:254][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.04.13-20.14.20:261][822]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.13-20.14.20:261][822]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2021.04.13-20.14.20:261][822]LogFileHelpers: Loading map 'LevelSelector' took 0.225
+[2021.04.13-20.14.22:080][912]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector:PersistentLevel.LevelSelector
+[2021.04.13-20.14.31:508][436]BlueprintLog: New page: Compile LevelSelector
+[2021.04.13-20.14.31:557][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.04.13-20.14.37:516][786]BlueprintLog: New page: Compile LevelSelector
+[2021.04.13-20.14.37:571][786]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.04.13-20.14.40:793][970]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.04.13-20.14.41:860][970]LogSlate: Window 'Save Content' being destroyed
+[2021.04.13-20.14.43:363][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.04.13-20.14.44:787][ 58]LogSlate: Window 'Save Content' being destroyed
+[2021.04.13-20.14.44:911][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.04.13-20.14.44:917][ 58]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/LevelSelector878CBE4C41249EC2FAA369BB561DC1DF.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/LevelSelector.umap'
+[2021.04.13-20.14.44:924][ 58]LogFileHelpers: Saving map 'LevelSelector' took 0.052
+[2021.04.13-20.14.44:954][ 58]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector
+[2021.04.13-20.14.44:954][ 58]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/LevelSelector.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.13-20.14.44:955][ 58]LightingResults: New page: Lighting Build
+[2021.04.13-20.14.44:955][ 58]LoadErrors: New page: Loading map: LevelSelector.umap
+[2021.04.13-20.14.44:960][ 58]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.14.44:960][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.14.44:994][ 58]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.14.44:994][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.14.44:994][ 58]MapCheck: New page: Map Check
+[2021.04.13-20.14.44:994][ 58]LightingResults: New page: Lighting Build
+[2021.04.13-20.14.45:032][ 58]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.14.45:038][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.04.13-20.14.45:044][ 58]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelSelector'.
+[2021.04.13-20.14.45:045][ 58]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.14.45:117][ 58]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.13-20.14.45:157][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.04.13-20.14.45:166][ 58]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.13-20.14.45:166][ 58]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2021.04.13-20.14.45:166][ 58]LogFileHelpers: Loading map 'LevelSelector' took 0.212
+[2021.04.13-20.14.45:185][ 58]AssetCheck: New page: Asset Save: LevelSelector
+[2021.04.13-20.14.45:185][ 58]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector
+[2021.04.13-20.14.46:383][130]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.14.46:387][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.14.46:387][130]PIE: New page: PIE session: LevelSelector (Apr 13, 2021, 8:14:46 AM)
+[2021.04.13-20.14.46:387][130]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.14.46:388][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000857s)
+[2021.04.13-20.14.46:389][130]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.14.46:389][130]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2021.04.13-20.14.46:389][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector (0.001796s)
+[2021.04.13-20.14.46:429][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.04.13-20.14.46:429][130]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.04.13-20.14.46:429][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.14.46:429][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.14.46:429][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.14.46:429][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.14.46:429][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.14.46:429][130]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.14.46:429][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.14.46:429][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.14.46:430][130]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.14.46:430][130]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.14.46:434][130]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.14.46:434][130]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.14.46:443][130]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.14.46:443][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.14.46:443][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.14.46:443][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.14.46:443][130]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.14.46:443][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.14.46:443][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.14.46:458][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.14.46:458][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.14.46:458][130]LogInit: FAudioDevice initialized.
+[2021.04.13-20.14.46:458][130]LogAudio: Display: Audio Device (ID: 11) registered with world 'LevelSelector'.
+[2021.04.13-20.14.46:467][130]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.14.46:469][130]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.14.46
+[2021.04.13-20.14.46:469][130]LogWorld: Bringing up level for play took: 0.000271
+[2021.04.13-20.14.46:469][130]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.04.13-20.14.46:471][130]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.14.46:471][130]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.14.46:472][130]PIE: Server logged in
+[2021.04.13-20.14.46:472][130]PIE: Play in editor total start time 0.086 seconds.
+[2021.04.13-20.15.04:483][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.15.04:483][958]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.15.04:483][958]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.15.04:483][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.15.04:488][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.15.04:494][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.15.04:530][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.15.04:531][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.15.04:532][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.15.04:551][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.04.13-20.15.04:565][959]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.04.13-20.15.19:657][838]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-20.15.27:170][269]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-20.15.32:681][574]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-20.15.40:798][ 37]LogSlate: Window 'Color Picker' being destroyed
+[2021.04.13-20.15.42:293][126]BlueprintLog: New page: Compile LevelSelector
+[2021.04.13-20.15.42:338][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.04.13-20.15.45:561][314]LogSlate: Window 'LevelSelector' being destroyed
+[2021.04.13-20.15.45:566][314]LogSlate: Window 'LevelSelector' being destroyed
+[2021.04.13-20.15.45:568][314]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.15.45:569][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.15.45:580][314]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.15.45:580][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.15.47:275][412]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.15.47:279][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.15.47:279][412]PIE: New page: PIE session: LevelSelector (Apr 13, 2021, 8:15:47 AM)
+[2021.04.13-20.15.47:279][412]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.15.47:280][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000890s)
+[2021.04.13-20.15.47:280][412]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.15.47:281][412]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2021.04.13-20.15.47:281][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector (0.001898s)
+[2021.04.13-20.15.47:324][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.04.13-20.15.47:325][412]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.04.13-20.15.47:325][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.15.47:325][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.15.47:325][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.15.47:325][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.15.47:325][412]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.15.47:325][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.15.47:325][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.15.47:325][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.15.47:326][412]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.15.47:326][412]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.15.47:329][412]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.15.47:329][412]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.15.47:339][412]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.15.47:339][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.15.47:339][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.15.47:339][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.15.47:339][412]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.15.47:339][412]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.15.47:339][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.15.47:353][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.15.47:354][412]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.15.47:354][412]LogInit: FAudioDevice initialized.
+[2021.04.13-20.15.47:354][412]LogAudio: Display: Audio Device (ID: 12) registered with world 'LevelSelector'.
+[2021.04.13-20.15.47:360][412]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.15.47:361][412]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.15.47
+[2021.04.13-20.15.47:361][412]LogWorld: Bringing up level for play took: 0.000279
+[2021.04.13-20.15.47:362][412]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.04.13-20.15.47:364][412]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.15.47:364][412]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.15.47:364][412]PIE: Server logged in
+[2021.04.13-20.15.47:365][412]PIE: Play in editor total start time 0.087 seconds.
+[2021.04.13-20.15.55:403][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.15.55:403][892]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.15.55:403][892]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.15.55:403][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.15.55:413][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.15.55:418][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.15.55:452][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.15.55:452][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.15.55:453][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.15.55:470][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.15.55:473][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.04.13-20.15.55:487][893]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.04.13-20.15.58:354][ 63]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.15.58:354][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.15.58:362][ 63]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.15.58:362][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.15.59:390][122]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.15.59:390][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.16.09:279][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.04.13-20.16.10:391][703]LogSlate: Window 'Save Content' being destroyed
+[2021.04.13-20.16.10:489][703]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/LevelSelector174B4EE1479B8500333996B0B93FCB83.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Blueprints/Widgets/LevelSelector.uasset'
+[2021.04.13-20.16.10:514][703]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector
+[2021.04.13-20.16.10:514][703]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/LevelSelector.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.13-20.16.10:514][703]LightingResults: New page: Lighting Build
+[2021.04.13-20.16.10:515][703]LoadErrors: New page: Loading map: LevelSelector.umap
+[2021.04.13-20.16.10:515][703]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.16.10:515][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.16.10:515][703]MapCheck: New page: Map Check
+[2021.04.13-20.16.10:515][703]LightingResults: New page: Lighting Build
+[2021.04.13-20.16.10:549][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.16.10:570][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.04.13-20.16.10:579][703]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelSelector'.
+[2021.04.13-20.16.10:580][703]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.16.10:641][703]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.13-20.16.10:667][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.04.13-20.16.10:674][703]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.13-20.16.10:674][703]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2021.04.13-20.16.10:674][703]LogFileHelpers: Loading map 'LevelSelector' took 0.159
+[2021.04.13-20.16.10:693][703]AssetCheck: New page: Asset Save: LevelSelector
+[2021.04.13-20.16.10:693][703]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Blueprints/Widgets/LevelSelector.LevelSelector
+[2021.04.13-20.16.12:061][785]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.16.12:064][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.16.12:064][785]PIE: New page: PIE session: LevelSelector (Apr 13, 2021, 8:16:12 AM)
+[2021.04.13-20.16.12:064][785]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.16.12:065][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000822s)
+[2021.04.13-20.16.12:066][785]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.16.12:066][785]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2021.04.13-20.16.12:066][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector (0.001744s)
+[2021.04.13-20.16.12:094][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.04.13-20.16.12:094][785]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.04.13-20.16.12:095][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.16.12:095][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.16.12:095][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.16.12:095][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.16.12:095][785]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.16.12:095][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.16.12:095][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.16.12:095][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.16.12:095][785]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.16.12:095][785]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.16.12:099][785]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.16.12:099][785]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.16.12:108][785]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.16.12:109][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.16.12:109][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.16.12:109][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.16.12:109][785]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.16.12:109][785]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.16.12:109][785]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.16.12:124][785]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.16.12:124][785]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.16.12:124][785]LogInit: FAudioDevice initialized.
+[2021.04.13-20.16.12:124][785]LogAudio: Display: Audio Device (ID: 13) registered with world 'LevelSelector'.
+[2021.04.13-20.16.12:134][785]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.16.12:135][785]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.16.12
+[2021.04.13-20.16.12:135][785]LogWorld: Bringing up level for play took: 0.000256
+[2021.04.13-20.16.12:135][785]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.04.13-20.16.12:138][785]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.16.12:138][785]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.16.12:138][785]PIE: Server logged in
+[2021.04.13-20.16.12:139][785]PIE: Play in editor total start time 0.075 seconds.
+[2021.04.13-20.16.14:094][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.16.14:094][901]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.16.14:094][901]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.16.14:094][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.16.14:100][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.16.14:105][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.16.14:128][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.16.14:128][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.16.14:129][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.16.14:144][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.16.14:147][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.04.13-20.16.14:178][903]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.04.13-20.16.18:528][163]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/Blueprints/Widgets/MainMenu.MainMenu
+[2021.04.13-20.16.24:295][490]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.13-20.16.24:295][490]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.16.24:295][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.16.24:983][527]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.16.24:983][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.16.24:989][527]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.16.24:989][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.16.26:459][613]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/Blueprints/Widgets/LevelSelector.LevelSelector
+[2021.04.13-20.16.50:439][955]LogEditorTransaction: Undo Move Node
+[2021.04.13-20.16.51:023][973]LogEditorTransaction: Undo Move Node
+[2021.04.13-20.17.10:177][852]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [Element not found.]
+[2021.04.13-20.17.16:233][ 29]BlueprintLog: New page: Compile LevelSelector
+[2021.04.13-20.17.16:315][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2021.04.13-20.17.17:775][ 64]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/LevelSelector105D1B07447DBF01262425A1AF0382B7.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Blueprints/Widgets/LevelSelector.uasset'
+[2021.04.13-20.17.17:789][ 64]AssetCheck: New page: Asset Save: LevelSelector
+[2021.04.13-20.17.17:789][ 64]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/Blueprints/Widgets/LevelSelector.LevelSelector
+[2021.04.13-20.17.19:268][152]LogSlate: Window 'LevelSelector' being destroyed
+[2021.04.13-20.17.19:273][152]LogSlate: Window 'LevelSelector' being destroyed
+[2021.04.13-20.17.19:275][152]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.19:275][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.19:281][152]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.19:281][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.21:764][264]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.17.21:768][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.17.21:768][264]PIE: New page: PIE session: LevelSelector (Apr 13, 2021, 8:17:21 AM)
+[2021.04.13-20.17.21:768][264]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.17.21:769][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000894s)
+[2021.04.13-20.17.21:770][264]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.17.21:770][264]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2021.04.13-20.17.21:770][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector (0.001887s)
+[2021.04.13-20.17.21:838][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.04.13-20.17.21:839][264]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.04.13-20.17.21:840][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.17.21:840][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.17.21:840][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.17.21:840][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.17.21:840][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.17.21:840][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.17.21:840][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.17.21:840][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.17.21:840][264]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.17.21:840][264]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.17.21:845][264]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.17.21:845][264]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.17.21:857][264]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.17.21:857][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.17.21:857][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.17.21:857][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.17.21:857][264]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.17.21:857][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.17.21:857][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.17.21:873][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.17.21:873][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.17.21:873][264]LogInit: FAudioDevice initialized.
+[2021.04.13-20.17.21:873][264]LogAudio: Display: Audio Device (ID: 14) registered with world 'LevelSelector'.
+[2021.04.13-20.17.21:879][264]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.17.21:881][264]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.17.21
+[2021.04.13-20.17.21:881][264]LogWorld: Bringing up level for play took: 0.000273
+[2021.04.13-20.17.21:881][264]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.04.13-20.17.21:883][264]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.17.21:883][264]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.17.21:883][264]PIE: Server logged in
+[2021.04.13-20.17.21:884][264]PIE: Play in editor total start time 0.118 seconds.
+[2021.04.13-20.17.22:869][315]LogNet: Browse: /Game/SideScrollerBP/Maps/Level1
+[2021.04.13-20.17.22:869][315]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/Level1
+[2021.04.13-20.17.22:869][315]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.17.22:869][315]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.22:869][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.22:916][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.17.22:919][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.04.13-20.17.22:925][315]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2021.04.13-20.17.22:926][315]LogAIModule: Creating AISystem for world Level1
+[2021.04.13-20.17.22:926][315]LogLoad: Game class is 'GameMode'
+[2021.04.13-20.17.22:929][315]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.04.13-14.17.22
+[2021.04.13-20.17.22:929][315]LogWorld: Bringing up level for play took: 0.002286
+[2021.04.13-20.17.22:930][315]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.04.13-20.17.22:930][315]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.04.13-20.17.22:930][315]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.04.13-20.17.22:930][315]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.13-20.17.22:930][315]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2021.04.13-20.17.22:930][315]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.04.13-20.17.22:930][315]LogLoad: Took 0.062168 seconds to LoadMap(/Game/SideScrollerBP/Maps/Level1)
+[2021.04.13-20.17.24:354][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.17.24:354][381]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_Level1
+[2021.04.13-20.17.24:354][381]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.24:354][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.24:362][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.17.24:367][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.24:383][381]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.17.24:383][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.17.24:384][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.17.24:402][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.17.24:404][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.04.13-20.17.24:432][383]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.04.13-20.17.25:056][407]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.17.25:060][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.17.25:060][407]PIE: New page: PIE session: LevelSelector (Apr 13, 2021, 8:17:25 AM)
+[2021.04.13-20.17.25:060][407]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.17.25:061][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000837s)
+[2021.04.13-20.17.25:062][407]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.17.25:062][407]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2021.04.13-20.17.25:062][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector (0.001885s)
+[2021.04.13-20.17.25:080][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.04.13-20.17.25:081][407]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.04.13-20.17.25:081][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.17.25:081][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.17.25:081][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.17.25:081][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.17.25:081][407]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.17.25:081][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.17.25:081][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.17.25:081][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.17.25:081][407]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.17.25:081][407]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.17.25:085][407]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.17.25:085][407]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.17.25:096][407]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.17.25:096][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.17.25:096][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.17.25:096][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.17.25:096][407]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.17.25:096][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.17.25:096][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.17.25:112][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.17.25:112][407]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.17.25:112][407]LogInit: FAudioDevice initialized.
+[2021.04.13-20.17.25:112][407]LogAudio: Display: Audio Device (ID: 15) registered with world 'LevelSelector'.
+[2021.04.13-20.17.25:126][407]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.17.25:127][407]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.17.25
+[2021.04.13-20.17.25:127][407]LogWorld: Bringing up level for play took: 0.000266
+[2021.04.13-20.17.25:127][407]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.04.13-20.17.25:129][407]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.17.25:130][407]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.17.25:130][407]PIE: Server logged in
+[2021.04.13-20.17.25:130][407]PIE: Play in editor total start time 0.071 seconds.
+[2021.04.13-20.17.25:640][438]LogNet: Browse: /Game/SideScrollerBP/Maps/Level2
+[2021.04.13-20.17.25:640][438]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/Level2
+[2021.04.13-20.17.25:640][438]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.17.25:640][438]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.25:640][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.25:658][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.17.25:660][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.04.13-20.17.25:661][438]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level2'.
+[2021.04.13-20.17.25:662][438]LogAIModule: Creating AISystem for world Level2
+[2021.04.13-20.17.25:663][438]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.17.25:664][438]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2021.04.13-14.17.25
+[2021.04.13-20.17.25:664][438]LogWorld: Bringing up level for play took: 0.000672
+[2021.04.13-20.17.25:665][438]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.13-20.17.25:666][438]LogLoad: Took 0.026391 seconds to LoadMap(/Game/SideScrollerBP/Maps/Level2)
+[2021.04.13-20.17.26:954][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.17.26:954][499]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_Level2
+[2021.04.13-20.17.26:954][499]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.26:954][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.26:975][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.17.26:979][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.26:998][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.17.26:998][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.17.26:999][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.17.27:016][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.13-20.17.27:032][500]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.04.13-20.17.27:869][546]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.17.27:873][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.17.27:873][546]PIE: New page: PIE session: LevelSelector (Apr 13, 2021, 8:17:27 AM)
+[2021.04.13-20.17.27:873][546]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.17.27:876][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002056s)
+[2021.04.13-20.17.27:876][546]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.17.27:877][546]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2021.04.13-20.17.27:877][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector (0.003084s)
+[2021.04.13-20.17.27:893][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.04.13-20.17.27:893][546]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.04.13-20.17.27:893][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.17.27:893][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.17.27:893][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.17.27:893][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.17.27:893][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.17.27:893][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.17.27:893][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.17.27:893][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.17.27:894][546]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.17.27:894][546]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.17.27:897][546]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.17.27:897][546]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.17.27:909][546]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.17.27:909][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.17.27:909][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.17.27:909][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.17.27:910][546]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.17.27:910][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.17.27:910][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.17.27:927][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.17.27:927][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.17.27:927][546]LogInit: FAudioDevice initialized.
+[2021.04.13-20.17.27:927][546]LogAudio: Display: Audio Device (ID: 16) registered with world 'LevelSelector'.
+[2021.04.13-20.17.27:933][546]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.17.27:934][546]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.17.27
+[2021.04.13-20.17.27:934][546]LogWorld: Bringing up level for play took: 0.000261
+[2021.04.13-20.17.27:934][546]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.04.13-20.17.27:937][546]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.17.27:937][546]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.17.27:937][546]PIE: Server logged in
+[2021.04.13-20.17.27:938][546]PIE: Play in editor total start time 0.067 seconds.
+[2021.04.13-20.17.28:381][573]LogNet: Browse: /Game/SideScrollerBP/Maps/Level3
+[2021.04.13-20.17.28:381][573]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/Level3
+[2021.04.13-20.17.28:381][573]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.17.28:382][573]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.28:382][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.28:398][573]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.17.28:401][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.04.13-20.17.28:402][573]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level3'.
+[2021.04.13-20.17.28:403][573]LogAIModule: Creating AISystem for world Level3
+[2021.04.13-20.17.28:403][573]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.17.28:405][573]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2021.04.13-14.17.28
+[2021.04.13-20.17.28:405][573]LogWorld: Bringing up level for play took: 0.000429
+[2021.04.13-20.17.28:405][573]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.13-20.17.28:407][573]LogLoad: Took 0.025672 seconds to LoadMap(/Game/SideScrollerBP/Maps/Level3)
+[2021.04.13-20.17.29:554][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.17.29:554][631]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_Level3
+[2021.04.13-20.17.29:554][631]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.29:554][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.29:566][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.17.29:570][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.29:585][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.17.29:585][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.17.29:586][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.17.29:604][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.04.13-20.17.29:617][632]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.04.13-20.17.29:856][646]LogEditorViewport: Clicking Background
+[2021.04.13-20.17.30:492][676]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.17.30:496][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.17.30:497][676]PIE: New page: PIE session: LevelSelector (Apr 13, 2021, 8:17:30 AM)
+[2021.04.13-20.17.30:497][676]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.17.30:498][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000948s)
+[2021.04.13-20.17.30:498][676]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.17.30:499][676]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2021.04.13-20.17.30:499][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/LevelSelector.LevelSelector to /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector (0.002057s)
+[2021.04.13-20.17.30:519][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.04.13-20.17.30:520][676]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.04.13-20.17.30:520][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.17.30:520][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.17.30:520][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.17.30:520][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.17.30:520][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.17.30:520][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.17.30:520][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.17.30:520][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.17.30:520][676]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.17.30:520][676]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.17.30:525][676]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.17.30:525][676]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.17.30:538][676]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.17.30:538][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.17.30:538][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.17.30:538][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.17.30:539][676]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.17.30:539][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.17.30:539][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.17.30:560][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.17.30:560][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.17.30:560][676]LogInit: FAudioDevice initialized.
+[2021.04.13-20.17.30:560][676]LogAudio: Display: Audio Device (ID: 17) registered with world 'LevelSelector'.
+[2021.04.13-20.17.30:573][676]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.17.30:574][676]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.17.30
+[2021.04.13-20.17.30:574][676]LogWorld: Bringing up level for play took: 0.000334
+[2021.04.13-20.17.30:574][676]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.04.13-20.17.30:577][676]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.17.30:577][676]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.17.30:578][676]PIE: Server logged in
+[2021.04.13-20.17.30:579][676]PIE: Play in editor total start time 0.083 seconds.
+[2021.04.13-20.17.32:883][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.17.32:883][807]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.17.32:883][807]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.32:883][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.32:898][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.17.32:902][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.32:919][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.17.32:919][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.17.32:920][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.17.32:941][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.04.13-20.17.33:003][809]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.04.13-20.17.36:381][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.04.13-20.17.36:438][957]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SideScrollerBP/Maps/MainMenu.MainMenu
+[2021.04.13-20.17.36:438][957]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.13-20.17.36:438][957]LightingResults: New page: Lighting Build
+[2021.04.13-20.17.36:438][957]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.04.13-20.17.36:439][957]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.36:439][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.36:439][957]MapCheck: New page: Map Check
+[2021.04.13-20.17.36:439][957]LightingResults: New page: Lighting Build
+[2021.04.13-20.17.36:462][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.17.36:469][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.04.13-20.17.36:469][957]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.04.13-20.17.36:546][957]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.13-20.17.36:546][957]LogAIModule: Creating AISystem for world MainMenu
+[2021.04.13-20.17.36:563][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.13-20.17.36:570][957]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.13-20.17.36:570][957]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2021.04.13-20.17.36:570][957]LogFileHelpers: Loading map 'MainMenu' took 0.132
+[2021.04.13-20.17.39:414][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.17.39:418][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.17.39:419][ 69]PIE: New page: PIE session: MainMenu (Apr 13, 2021, 8:17:39 AM)
+[2021.04.13-20.17.39:419][ 69]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.17.39:420][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000924s)
+[2021.04.13-20.17.39:421][ 69]LogAIModule: Creating AISystem for world MainMenu
+[2021.04.13-20.17.39:421][ 69]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2021.04.13-20.17.39:421][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001955s)
+[2021.04.13-20.17.39:440][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.04.13-20.17.39:441][ 69]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.04.13-20.17.39:441][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.17.39:441][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.17.39:441][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.17.39:441][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.17.39:441][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.17.39:441][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.17.39:441][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.17.39:441][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.17.39:441][ 69]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.17.39:441][ 69]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.17.39:446][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.17.39:446][ 69]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.17.39:458][ 69]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.17.39:459][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.17.39:459][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.17.39:459][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.17.39:459][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.17.39:459][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.17.39:459][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.17.39:476][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.17.39:476][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.17.39:476][ 69]LogInit: FAudioDevice initialized.
+[2021.04.13-20.17.39:476][ 69]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenu'.
+[2021.04.13-20.17.39:485][ 69]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.17.39:486][ 69]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.04.13-14.17.39
+[2021.04.13-20.17.39:486][ 69]LogWorld: Bringing up level for play took: 0.000270
+[2021.04.13-20.17.39:486][ 69]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.04.13-20.17.39:489][ 69]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.17.39:489][ 69]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.17.39:489][ 69]PIE: Server logged in
+[2021.04.13-20.17.39:490][ 69]PIE: Play in editor total start time 0.072 seconds.
+[2021.04.13-20.17.41:335][179]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelSelector
+[2021.04.13-20.17.41:335][179]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelSelector
+[2021.04.13-20.17.41:335][179]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.17.41:336][179]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.41:336][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.41:350][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.17.41:352][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.04.13-20.17.41:357][179]LogAudio: Display: Audio Device (ID: 18) registered with world 'LevelSelector'.
+[2021.04.13-20.17.41:358][179]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.17.41:358][179]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.17.41:359][179]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.17.41
+[2021.04.13-20.17.41:359][179]LogWorld: Bringing up level for play took: 0.000366
+[2021.04.13-20.17.41:360][179]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.13-20.17.41:361][179]LogLoad: Took 0.026289 seconds to LoadMap(/Game/SideScrollerBP/Maps/LevelSelector)
+[2021.04.13-20.17.45:853][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.17.45:853][436]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.17.45:853][436]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.17.45:854][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.45:881][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.17.45:885][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.17.45:901][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.17.45:901][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.17.45:902][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.17.45:919][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.04.13-20.17.45:929][437]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.04.13-20.18.16:355][290]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.18.16:358][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.18.16:359][290]PIE: New page: PIE session: MainMenu (Apr 13, 2021, 8:18:16 AM)
+[2021.04.13-20.18.16:359][290]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.18.16:360][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001083s)
+[2021.04.13-20.18.16:361][290]LogAIModule: Creating AISystem for world MainMenu
+[2021.04.13-20.18.16:361][290]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2021.04.13-20.18.16:361][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002205s)
+[2021.04.13-20.18.16:381][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.04.13-20.18.16:383][290]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.04.13-20.18.16:383][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.18.16:383][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.18.16:383][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.18.16:383][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.18.16:383][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.18.16:383][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.18.16:383][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.18.16:383][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.18.16:384][290]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.18.16:384][290]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.18.16:388][290]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.18.16:388][290]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.18.16:399][290]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.18.16:399][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.18.16:399][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.18.16:399][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.18.16:399][290]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.18.16:399][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.18.16:399][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.18.16:400][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.18.16:400][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.18.16:400][290]LogInit: FAudioDevice initialized.
+[2021.04.13-20.18.16:401][290]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainMenu'.
+[2021.04.13-20.18.16:422][290]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.18.16:423][290]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.04.13-14.18.16
+[2021.04.13-20.18.16:423][290]LogWorld: Bringing up level for play took: 0.000283
+[2021.04.13-20.18.16:424][290]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.04.13-20.18.16:426][290]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.18.16:426][290]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.18.16:427][290]PIE: Server logged in
+[2021.04.13-20.18.16:427][290]PIE: Play in editor total start time 0.07 seconds.
+[2021.04.13-20.18.19:173][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.18.19:173][443]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.18.19:173][443]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.18.19:173][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.18.19:192][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.18.19:195][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.18.19:210][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.18.19:211][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.18.19:212][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.18.19:229][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.04.13-20.18.19:239][444]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.04.13-20.18.19:605][464]LogEditorViewport: Clicking Background
+[2021.04.13-20.18.22:598][594]Cmd: STAT FPS
+[2021.04.13-20.18.23:134][623]LogEditorViewport: Clicking Background
+[2021.04.13-20.18.23:863][655]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.18.23:867][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.18.23:867][655]PIE: New page: PIE session: MainMenu (Apr 13, 2021, 8:18:23 AM)
+[2021.04.13-20.18.23:867][655]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.18.23:868][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000837s)
+[2021.04.13-20.18.23:868][655]LogAIModule: Creating AISystem for world MainMenu
+[2021.04.13-20.18.23:869][655]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2021.04.13-20.18.23:869][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001779s)
+[2021.04.13-20.18.23:886][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.13-20.18.23:886][655]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.04.13-20.18.23:886][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.18.23:886][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.18.23:886][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.18.23:886][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.18.23:886][655]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.18.23:886][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.18.23:886][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.18.23:886][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.18.23:887][655]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.18.23:887][655]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.18.23:891][655]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.18.23:891][655]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.18.23:900][655]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.18.23:901][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.18.23:901][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.18.23:901][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.18.23:901][655]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.18.23:901][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.18.23:901][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.18.23:916][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.18.23:916][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.18.23:916][655]LogInit: FAudioDevice initialized.
+[2021.04.13-20.18.23:916][655]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMenu'.
+[2021.04.13-20.18.23:922][655]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.18.23:924][655]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.04.13-14.18.23
+[2021.04.13-20.18.23:924][655]LogWorld: Bringing up level for play took: 0.000268
+[2021.04.13-20.18.23:925][655]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.04.13-20.18.23:927][655]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.18.23:927][655]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.18.23:927][655]PIE: Server logged in
+[2021.04.13-20.18.23:928][655]PIE: Play in editor total start time 0.062 seconds.
+[2021.04.13-20.18.25:604][756]LogNet: Browse: /Game/SideScrollerBP/Maps/Level1
+[2021.04.13-20.18.25:604][756]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/Level1
+[2021.04.13-20.18.25:604][756]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.18.25:604][756]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.18.25:605][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.18.25:620][756]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.18.25:622][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.04.13-20.18.25:628][756]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level1'.
+[2021.04.13-20.18.25:629][756]LogAIModule: Creating AISystem for world Level1
+[2021.04.13-20.18.25:629][756]LogLoad: Game class is 'GameMode'
+[2021.04.13-20.18.25:632][756]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.04.13-14.18.25
+[2021.04.13-20.18.25:632][756]LogWorld: Bringing up level for play took: 0.002346
+[2021.04.13-20.18.25:633][756]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.04.13-20.18.25:633][756]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.04.13-20.18.25:633][756]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.04.13-20.18.25:633][756]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.13-20.18.25:633][756]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2021.04.13-20.18.25:633][756]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.04.13-20.18.25:633][756]LogLoad: Took 0.029350 seconds to LoadMap(/Game/SideScrollerBP/Maps/Level1)
+[2021.04.13-20.18.33:434][224]LogBlueprintUserMessages: [SideScrollerCharacter_78] 10.0
+[2021.04.13-20.18.34:433][284]LogBlueprintUserMessages: [SideScrollerCharacter_78] 10.0
+[2021.04.13-20.18.35:434][344]LogBlueprintUserMessages: [SideScrollerCharacter_78] 10.0
+[2021.04.13-20.18.36:433][404]LogBlueprintUserMessages: [SideScrollerCharacter_78] 10.0
+[2021.04.13-20.18.37:433][464]LogBlueprintUserMessages: [SideScrollerCharacter_78] 10.0
+[2021.04.13-20.18.37:854][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.18.37:854][487]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_Level1
+[2021.04.13-20.18.37:854][487]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.18.37:854][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.18.37:863][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.18.37:867][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.18.37:881][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.18.37:881][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.18.37:882][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.18.37:897][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.18.37:900][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.04.13-20.18.37:926][489]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.04.13-20.18.39:918][601]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.18.39:922][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.18.39:922][601]PIE: New page: PIE session: MainMenu (Apr 13, 2021, 8:18:39 AM)
+[2021.04.13-20.18.39:922][601]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.18.39:923][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000880s)
+[2021.04.13-20.18.39:924][601]LogAIModule: Creating AISystem for world MainMenu
+[2021.04.13-20.18.39:924][601]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2021.04.13-20.18.39:924][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001952s)
+[2021.04.13-20.18.39:943][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.04.13-20.18.39:944][601]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.04.13-20.18.39:944][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.18.39:944][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.18.39:944][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.18.39:944][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.18.39:944][601]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.18.39:944][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.18.39:944][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.18.39:944][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.18.39:944][601]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.18.39:944][601]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.18.39:948][601]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.18.39:948][601]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.18.39:958][601]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-20.18.39:959][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.18.39:959][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.18.39:959][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.18.39:959][601]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.18.39:959][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.18.39:959][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.18.39:974][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.18.39:974][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.18.39:974][601]LogInit: FAudioDevice initialized.
+[2021.04.13-20.18.39:974][601]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainMenu'.
+[2021.04.13-20.18.39:984][601]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.18.39:985][601]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.04.13-14.18.39
+[2021.04.13-20.18.39:985][601]LogWorld: Bringing up level for play took: 0.000263
+[2021.04.13-20.18.39:985][601]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.04.13-20.18.39:988][601]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.18.39:988][601]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.18.39:988][601]PIE: Server logged in
+[2021.04.13-20.18.39:989][601]PIE: Play in editor total start time 0.068 seconds.
+[2021.04.13-20.18.41:266][674]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelSelector
+[2021.04.13-20.18.41:266][674]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelSelector
+[2021.04.13-20.18.41:266][674]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.18.41:267][674]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.18.41:267][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.18.41:316][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.18.41:318][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.04.13-20.18.41:323][674]LogAudio: Display: Audio Device (ID: 21) registered with world 'LevelSelector'.
+[2021.04.13-20.18.41:323][674]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.18.41:323][674]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.18.41:325][674]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.18.41
+[2021.04.13-20.18.41:325][674]LogWorld: Bringing up level for play took: 0.000402
+[2021.04.13-20.18.41:325][674]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.13-20.18.41:327][674]LogLoad: Took 0.059898 seconds to LoadMap(/Game/SideScrollerBP/Maps/LevelSelector)
+[2021.04.13-20.18.44:263][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.18.44:263][828]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.18.44:263][828]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.18.44:263][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.18.44:274][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.18.44:277][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.18.44:292][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.18.44:292][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.18.44:293][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.18.44:311][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.04.13-20.18.44:342][830]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.04.13-20.18.44:891][863]LogEditorViewport: Clicking Background
+[2021.04.13-20.19.16:971][144]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d1514fca-6b4e-4add-a17a-9499e22f70ae}.
+[2021.04.13-20.19.16:971][144]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.13-20.19.17:013][144]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.19.17:014][144]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.19.22:598][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.04.13-20.20.32:181][953]LogEditorViewport: Clicking Background
+[2021.04.13-20.20.48:831][162]Cmd: STAT Detailed
+[2021.04.13-20.20.48:831][162]Cmd: STAT Unit
+[2021.04.13-20.20.48:832][162]Cmd: STAT UnitMax
+[2021.04.13-20.20.48:832][162]Cmd: STAT UnitGraph
+[2021.04.13-20.20.48:832][162]Cmd: STAT UnitTime
+[2021.04.13-20.20.48:832][162]Cmd: STAT Raw
+[2021.04.13-20.20.48:832][162]Cmd: STAT UnitTime
+[2021.04.13-20.20.50:704][172]LogEditorViewport: Clicking Background
+[2021.04.13-20.20.52:165][239]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-20.20.52:169][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-20.20.52:169][239]PIE: New page: PIE session: MainMenu (Apr 13, 2021, 8:20:52 AM)
+[2021.04.13-20.20.52:169][239]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.20.52:170][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000909s)
+[2021.04.13-20.20.52:171][239]LogAIModule: Creating AISystem for world MainMenu
+[2021.04.13-20.20.52:171][239]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2021.04.13-20.20.52:171][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001967s)
+[2021.04.13-20.20.52:189][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.04.13-20.20.52:194][239]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.04.13-20.20.52:194][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-20.20.52:194][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-20.20.52:194][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-20.20.52:194][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-20.20.52:194][239]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-20.20.52:194][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-20.20.52:194][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-20.20.52:194][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-20.20.52:195][239]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-20.20.52:195][239]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-20.20.52:200][239]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-20.20.52:200][239]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-20.20.52:207][239]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.04.13-20.20.52:208][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-20.20.52:208][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-20.20.52:208][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-20.20.52:209][239]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-20.20.52:209][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-20.20.52:209][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-20.20.52:223][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-20.20.52:223][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-20.20.52:223][239]LogInit: FAudioDevice initialized.
+[2021.04.13-20.20.52:223][239]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenu'.
+[2021.04.13-20.20.52:238][239]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.20.52:239][239]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.04.13-14.20.52
+[2021.04.13-20.20.52:240][239]LogWorld: Bringing up level for play took: 0.000292
+[2021.04.13-20.20.52:240][239]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.04.13-20.20.52:243][239]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-20.20.52:243][239]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.13-20.20.52:243][239]PIE: Server logged in
+[2021.04.13-20.20.52:244][239]PIE: Play in editor total start time 0.076 seconds.
+[2021.04.13-20.21.01:999][819]LogNet: Browse: /Game/SideScrollerBP/Maps/LevelSelector
+[2021.04.13-20.21.01:999][819]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/LevelSelector
+[2021.04.13-20.21.01:999][819]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.21.02:000][819]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.21.02:000][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.21.02:039][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.21.02:042][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.04.13-20.21.02:047][819]LogAudio: Display: Audio Device (ID: 22) registered with world 'LevelSelector'.
+[2021.04.13-20.21.02:047][819]LogAIModule: Creating AISystem for world LevelSelector
+[2021.04.13-20.21.02:048][819]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.21.02:049][819]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector.LevelSelector up for play (max tick rate 60) at 2021.04.13-14.21.02
+[2021.04.13-20.21.02:049][819]LogWorld: Bringing up level for play took: 0.000380
+[2021.04.13-20.21.02:049][819]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.13-20.21.02:051][819]LogLoad: Took 0.051411 seconds to LoadMap(/Game/SideScrollerBP/Maps/LevelSelector)
+[2021.04.13-20.21.05:818][ 45]LogNet: Browse: /Game/SideScrollerBP/Maps/Level1
+[2021.04.13-20.21.05:818][ 45]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/Level1
+[2021.04.13-20.21.05:818][ 45]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_LevelSelector
+[2021.04.13-20.21.05:818][ 45]LogWorld: UWorld::CleanupWorld for LevelSelector, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.21.05:818][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.21.05:835][ 45]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.21.05:837][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.04.13-20.21.05:843][ 45]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level1'.
+[2021.04.13-20.21.05:844][ 45]LogAIModule: Creating AISystem for world Level1
+[2021.04.13-20.21.05:844][ 45]LogLoad: Game class is 'GameMode'
+[2021.04.13-20.21.05:847][ 45]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.04.13-14.21.05
+[2021.04.13-20.21.05:848][ 45]LogWorld: Bringing up level for play took: 0.002309
+[2021.04.13-20.21.05:848][ 45]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.04.13-20.21.05:848][ 45]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.04.13-20.21.05:848][ 45]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.04.13-20.21.05:848][ 45]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.13-20.21.05:848][ 45]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2021.04.13-20.21.05:849][ 45]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.04.13-20.21.05:849][ 45]LogLoad: Took 0.030882 seconds to LoadMap(/Game/SideScrollerBP/Maps/Level1)
+[2021.04.13-20.21.12:948][471]LogBlueprintUserMessages: [SideScrollerCharacter_78] No Damage
+[2021.04.13-20.21.13:131][482]LogBlueprintUserMessages: [SideScrollerCharacter_78] No Damage
+[2021.04.13-20.21.14:931][590]LogBlueprintUserMessages: [SideScrollerCharacter_78] you dead
+[2021.04.13-20.21.15:382][617]LogBlueprintUserMessages: [SideScrollerCharacter_78] No Damage
+[2021.04.13-20.21.15:432][620]LogBlueprintUserMessages: [SideScrollerCharacter_78] No Damage
+[2021.04.13-20.21.15:581][629]LogBlueprintUserMessages: [SideScrollerCharacter_78] you dead
+[2021.04.13-20.21.15:781][641]LogBlueprintUserMessages: [SideScrollerCharacter_78] you dead
+[2021.04.13-20.21.15:947][651]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.04.13-20.21.15:947][651]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.04.13-20.21.15:947][651]LogNet: Browse: /Game/SideScrollerBP/Maps/MainMenu
+[2021.04.13-20.21.15:947][651]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainMenu
+[2021.04.13-20.21.15:947][651]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_Level1
+[2021.04.13-20.21.15:948][651]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.21.15:948][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.21.15:989][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.21.15:991][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.13-20.21.15:992][651]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.21.15:993][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000853s)
+[2021.04.13-20.21.15:994][651]LogAIModule: Creating AISystem for world MainMenu
+[2021.04.13-20.21.15:994][651]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2021.04.13-20.21.15:994][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainMenu.MainMenu to /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001916s)
+[2021.04.13-20.21.15:994][651]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenu'.
+[2021.04.13-20.21.15:994][651]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.13-20.21.15:995][651]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.04.13-14.21.15
+[2021.04.13-20.21.15:995][651]LogWorld: Bringing up level for play took: 0.000228
+[2021.04.13-20.21.15:995][651]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.13-20.21.15:997][651]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2021.04.13-20.21.15:997][651]LogLoad: Took 0.048982 seconds to LoadMap(/Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu)
+[2021.04.13-20.21.19:704][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.21.19:704][871]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenu
+[2021.04.13-20.21.19:704][871]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-20.21.19:704][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.21.19:711][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-20.21.19:715][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-20.21.19:729][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-20.21.19:729][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.21.19:730][871]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-20.21.19:746][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-20.21.19:748][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.04.13-20.21.19:774][873]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.04.13-20.21.23:401][979]Cmd: STAT Raw
+[2021.04.13-20.21.23:401][979]Cmd: STAT Detailed -Skip
+[2021.04.13-20.21.23:401][979]Cmd: STAT UnitGraph
+[2021.04.13-20.21.23:401][979]Cmd: STAT UnitMax
+[2021.04.13-20.21.23:401][979]Cmd: STAT Unit
+[2021.04.13-20.21.23:402][979]Cmd: STAT FPS
+[2021.04.13-20.21.52:490][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Maps/MainMenu" FILE="../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.13-20.21.52:507][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.04.13-20.21.52:513][963]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/MainMenuE023BF324D61BBABBE165BB3E04F7978.tmp' to '../../../../../Unreal Projects/GameJamtake2/Content/SideScrollerBP/Maps/MainMenu.umap'
+[2021.04.13-20.21.52:529][963]AssetCheck: New page: Asset Save: MainMenu
+[2021.04.13-20.21.52:529][963]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/MainMenu.MainMenu
+[2021.04.13-20.21.54:167][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
