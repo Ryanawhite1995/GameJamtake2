@@ -27503,3 +27503,105 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.13-19.14.30:329][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
 [2021.04.13-19.14.30:357][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_218
 [2021.04.13-19.14.54:096][823]LogSlate: Window 'Source Control Login' being destroyed
+[2021.04.13-19.16.36:215][571]LogSlate: Window 'BatteryWidget' being destroyed
+[2021.04.13-19.16.36:219][571]LogSlate: Window 'BatteryWidget' being destroyed
+[2021.04.13-19.16.36:231][571]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-19.16.36:231][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-19.16.36:235][571]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-19.16.36:235][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Content: 'D:/UE4/UE_4.26/Engine/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/UE4/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/UE4/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository
+[2021.04.13-19.16.41:841][865]SourceControl: fatal: D:/UE4/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE4/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository
+[2021.04.13-19.16.42:009][865]EditorErrors: Warning: No assets to check in!
+[2021.04.13-19.17.03:948][101]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.13-19.17.03:952][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.13-19.17.03:953][101]PIE: New page: PIE session: MainLevel (Apr 13, 2021, 7:17:03 AM)
+[2021.04.13-19.17.03:953][101]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_MainLevel
+[2021.04.13-19.17.03:956][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002744s)
+[2021.04.13-19.17.03:956][101]LogAIModule: Creating AISystem for world MainLevel
+[2021.04.13-19.17.03:957][101]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2021.04.13-19.17.03:957][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/MainLevel.MainLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_MainLevel.MainLevel (0.003907s)
+[2021.04.13-19.17.03:985][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.04.13-19.17.03:988][101]LogAudio: Display: Creating Audio Device:                 Id: 168, Scope: Unique, Realtime: True
+[2021.04.13-19.17.03:988][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.13-19.17.03:988][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.13-19.17.03:988][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.13-19.17.03:988][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.13-19.17.03:988][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.13-19.17.03:988][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.13-19.17.03:988][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.13-19.17.03:988][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.13-19.17.03:989][101]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.13-19.17.03:989][101]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.13-19.17.03:992][101]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.13-19.17.03:992][101]LogAudioMixer: Display: 1: FrontRight
+[2021.04.13-19.17.04:003][101]LogAudioMixer: Display: Using Audio Device Headphones (Galaxy Buds (E017) Stereo)
+[2021.04.13-19.17.04:003][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.13-19.17.04:003][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.13-19.17.04:003][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.13-19.17.04:003][101]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.13-19.17.04:003][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.13-19.17.04:003][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.13-19.17.04:019][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.13-19.17.04:019][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.13-19.17.04:019][101]LogInit: FAudioDevice initialized.
+[2021.04.13-19.17.04:019][101]LogAudio: Display: Audio Device (ID: 168) registered with world 'MainLevel'.
+[2021.04.13-19.17.04:029][101]LogLoad: Game class is 'GameMode'
+[2021.04.13-19.17.04:031][101]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.04.13-13.17.04
+[2021.04.13-19.17.04:032][101]LogWorld: Bringing up level for play took: 0.001747
+[2021.04.13-19.17.04:032][101]LogOnline: OSS: Creating online subsystem instance for: :Context_219
+[2021.04.13-19.17.04:034][101]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.04.13-19.17.04:034][101]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.04.13-19.17.04:034][101]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.04.13-19.17.04:034][101]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.04.13-19.17.04:034][101]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.04.13-19.17.04:034][101]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.04.13-19.17.04:035][101]LogBlueprintUserMessages: [SideScrollerCharacter_78] YouGotHit
+[2021.04.13-19.17.04:035][101]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.04.13-19.17.04:035][101]PIE: Server logged in
+[2021.04.13-19.17.04:036][101]PIE: Play in editor total start time 0.085 seconds.
+[2021.04.13-19.17.07:194][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-19.17.07:194][288]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_MainLevel
+[2021.04.13-19.17.07:194][288]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.04.13-19.17.07:195][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-19.17.07:203][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.13-19.17.07:215][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.13-19.17.07:236][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.13-19.17.07:236][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-19.17.07:237][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.13-19.17.07:253][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.13-19.17.07:255][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.04.13-19.17.07:286][289]LogPlayLevel: Display: Destroying online subsystem :Context_219
+[2021.04.13-19.17.19:977][ 41]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.13-19.17.20:035][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.04.13-19.18.23:040][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.04.13-19.18.23:049][272]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/MainLevel_Auto5D83214BE4F379CC74C3EFD961A7544B7.tmp' to '../../../../../Unreal Projects/GameJamtake2/Saved/Autosaves/Game/SideScrollerBP/Maps/MainLevel_Auto5.umap'
+[2021.04.13-19.18.23:049][272]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/MainLevel' took 0.036
+[2021.04.13-19.18.23:049][272]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2021.04.13-19.18.23:050][272]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([2] browsable assets)...
+[2021.04.13-19.18.23:083][272]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2021.04.13-19.18.23:116][272]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2021.04.13-19.18.23:116][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2021.04.13-19.18.23:151][272]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/SideScrollerCharacter_Auto5369357814EA12A83D0FE2C9FB484B9CD.tmp' to '../../../../../Unreal Projects/GameJamtake2/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto5.uasset'
+[2021.04.13-19.18.23:152][272]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/Widgets/SideScrollerBP/Blueprints/mIGRATE/BatteryWidget] ([1] browsable assets)...
+[2021.04.13-19.18.23:152][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/Widgets/SideScrollerBP/Blueprints/mIGRATE/BatteryWidget]
+[2021.04.13-19.18.23:186][272]LogSavePackage: Moving '../../../../../Unreal Projects/GameJamtake2/Saved/BatteryWidget_Auto59373E9AC472BB8947015C7AEC3FE141F.tmp' to '../../../../../Unreal Projects/GameJamtake2/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Widgets/SideScrollerBP/Blueprints/mIGRATE/BatteryWidget_Auto5.uasset'
+[2021.04.13-19.18.23:186][272]LogFileHelpers: Auto-saving content packages took 0.136
